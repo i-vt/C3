@@ -43,9 +43,6 @@ For contribution guide (how to develop a Channel tutorials), see [this page](CON
 
 
 ## Detection
-- [Attack Detection Fundamentals C2 and Exfiltration Lab - Dropbox](https://labs.f-secure.com/blog/attack-detection-fundamentals-c2-and-exfiltration-lab-3)
-- [Attack Detection Fundamentals Discovery and Lateral Movement Lab - UNC Share File](https://labs.f-secure.com/blog/attack-detection-fundamentals-discovery-and-lateral-movement-lab-3/)
-- [Using and detecting C2 printer pivoting](https://labs.f-secure.com/blog/print-c2/)
 - [Black Hat USA 2021 - I'm a Hacker Get Me Out of Here! Breaking Network Segregation Using Esoteric Command & Control Channels](http://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Coote-Im-A-Hacker-Get-Me-Out-Of-Here-Breaking-Network-Segregation-Using-Esoteric-Command-Control-Channels.pdf)
 - [Pursuing Evasive Custom Command & Control - Guide M - ROOTCON](https://media.rootcon.org/ROOTCON%2014%20(Recovery%20Mode)/Talks/Pursuing%20Evasive%20Custom%20Command%20&%20Control%20(C3).pdf)
 - [YARA Rule - C3 Reflective DLL Usage](https://gist.github.com/ajpc500/9ae6eb427375438f906b0bf394813bc5)

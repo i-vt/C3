@@ -43,7 +43,6 @@ For contribution guide (how to develop a Channel tutorials), see [this page](CON
 
 
 ## Detection
-- [Hunting for C3 (release blog)](https://labs.f-secure.com/blog/hunting-for-c3/)
 - [Attack Detection Fundamentals C2 and Exfiltration Lab - Dropbox](https://labs.f-secure.com/blog/attack-detection-fundamentals-c2-and-exfiltration-lab-3)
 - [Attack Detection Fundamentals Discovery and Lateral Movement Lab - UNC Share File](https://labs.f-secure.com/blog/attack-detection-fundamentals-discovery-and-lateral-movement-lab-3/)
 - [Using and detecting C2 printer pivoting](https://labs.f-secure.com/blog/print-c2/)
